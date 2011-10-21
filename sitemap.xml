@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://plweb.github.com/JavaStepsBlog/blog/2011/10/21/hello/</loc>
+        <loc>http://plweb.github.com/JavaStepsBlog/hello/</loc>
         <lastmod>2011-10-21T16:09:38+08:00</lastmod>
     </url>
     <url>
-        <loc>http://plweb.github.com/JavaStepsBlog/blog/2011/10/21/step1/</loc>
+        <loc>http://plweb.github.com/JavaStepsBlog/step1/</loc>
         <lastmod>2011-10-21T16:42:10+08:00</lastmod>
     </url>
     <url>
