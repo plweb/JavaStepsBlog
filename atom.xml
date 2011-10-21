@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Learn Java in 36 Steps]]></title>
   <link href="http://plweb.github.com/JavaStepsBlog/atom.xml" rel="self"/>
   <link href="http://plweb.github.com/JavaStepsBlog/"/>
-  <updated>2011-10-21T16:07:27+08:00</updated>
+  <updated>2011-10-21T16:17:25+08:00</updated>
   <id>http://plweb.github.com/JavaStepsBlog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[PLWeb 教材研發團隊]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hello]]></title>
+    <link href="http://plweb.github.com/JavaStepsBlog/blog/2011/10/21/hello/"/>
+    <updated>2011-10-21T16:09:00+08:00</updated>
+    <id>http://plweb.github.com/JavaStepsBlog/blog/2011/10/21/hello</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
