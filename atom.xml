@@ -4,7 +4,7 @@
   <title><![CDATA[Learn Java in 36 Steps]]></title>
   <link href="http://plweb.github.com/JavaStepsBlog/atom.xml" rel="self"/>
   <link href="http://plweb.github.com/JavaStepsBlog/"/>
-  <updated>2011-10-21T16:29:48+08:00</updated>
+  <updated>2011-10-21T16:42:34+08:00</updated>
   <id>http://plweb.github.com/JavaStepsBlog/</id>
   <author>
     <name><![CDATA[PLWeb]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[step1]]></title>
+    <link href="http://plweb.github.com/JavaStepsBlog/blog/2011/10/21/step1/"/>
+    <updated>2011-10-21T16:42:00+08:00</updated>
+    <id>http://plweb.github.com/JavaStepsBlog/blog/2011/10/21/step1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[hello]]></title>
