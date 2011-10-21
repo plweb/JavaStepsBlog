@@ -4,7 +4,7 @@
   <title><![CDATA[Learn Java in 36 Steps]]></title>
   <link href="http://plweb.github.com/JavaStepsBlog/atom.xml" rel="self"/>
   <link href="http://plweb.github.com/JavaStepsBlog/"/>
-  <updated>2011-10-21T16:43:35+08:00</updated>
+  <updated>2011-10-21T16:52:16+08:00</updated>
   <id>http://plweb.github.com/JavaStepsBlog/</id>
   <author>
     <name><![CDATA[PLWeb]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[step1]]></title>
+    <title type="html"><![CDATA[第 1 步 - 安裝及設定開發環境]]></title>
     <link href="http://plweb.github.com/JavaStepsBlog/step1/"/>
     <updated>2011-10-21T16:42:00+08:00</updated>
     <id>http://plweb.github.com/JavaStepsBlog/step1</id>
@@ -23,11 +23,16 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[hello]]></title>
+    <title type="html"><![CDATA[認識 Java 程式語言]]></title>
     <link href="http://plweb.github.com/JavaStepsBlog/hello/"/>
     <updated>2011-10-21T16:09:00+08:00</updated>
     <id>http://plweb.github.com/JavaStepsBlog/hello</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>追溯至 1990 年 12 月，
+Sun (昇陽電腦) 公司成立 Green Team 團隊，
+主要成員有 Patrick Naughton、Mike Sheridan 及 James Gosling。
+他們開始著手一項新專案「Green Project」，
+目標是發展一種系統架構，
+使程式能夠在電腦以外的消費性電子產品平台運作（例如手機、資訊家電等）。</p>
 ]]></content>
   </entry>
   
