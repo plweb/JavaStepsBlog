@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Learn Java in 36 Steps]]></title>
+  <title><![CDATA[三十六步學好 Java 程式語言]]></title>
   <link href="http://plweb.github.com/JavaStepsBlog/atom.xml" rel="self"/>
   <link href="http://plweb.github.com/JavaStepsBlog/"/>
-  <updated>2011-10-21T17:01:49+08:00</updated>
+  <updated>2011-10-21T17:03:10+08:00</updated>
   <id>http://plweb.github.com/JavaStepsBlog/</id>
   <author>
     <name><![CDATA[PLWeb]]></name>
