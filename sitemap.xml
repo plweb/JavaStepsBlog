@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://plweb.github.com/JavaStepsBlog/hello/</loc>
+        <loc>http://javasteps.plweb.org/hello/</loc>
         <lastmod>2011-10-21T16:48:45+08:00</lastmod>
     </url>
     <url>
-        <loc>http://plweb.github.com/JavaStepsBlog/step1/</loc>
+        <loc>http://javasteps.plweb.org/step1/</loc>
         <lastmod>2011-10-21T16:52:09+08:00</lastmod>
     </url>
     <url>
-        <loc>http://plweb.github.com/JavaStepsBlog/step2/</loc>
+        <loc>http://javasteps.plweb.org/step2/</loc>
         <lastmod>2011-10-21T16:59:20+08:00</lastmod>
     </url>
     <url>
-        <loc>http://plweb.github.com/JavaStepsBlog/blog/archives/</loc>
+        <loc>http://javasteps.plweb.org/blog/archives/</loc>
         <lastmod>2011-10-21T17:23:36+08:00</lastmod>
     </url>
     <url>
-        <loc>http://plweb.github.com/JavaStepsBlog/</loc>
+        <loc>http://javasteps.plweb.org/</loc>
         <lastmod>2011-10-21T16:59:20+08:00</lastmod>
     </url>
 </urlset>

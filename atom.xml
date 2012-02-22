@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[36 步學好 Java 程式語言]]></title>
-  <link href="http://plweb.github.com/JavaStepsBlog/atom.xml" rel="self"/>
-  <link href="http://plweb.github.com/JavaStepsBlog/"/>
-  <updated>2012-02-22T09:45:26+08:00</updated>
-  <id>http://plweb.github.com/JavaStepsBlog/</id>
+  <link href="http://javasteps.plweb.org/atom.xml" rel="self"/>
+  <link href="http://javasteps.plweb.org/"/>
+  <updated>2012-02-22T09:51:12+08:00</updated>
+  <id>http://javasteps.plweb.org/</id>
   <author>
     <name><![CDATA[PLWeb]]></name>
     
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[第 2 步 - 最簡單的 Java 程式]]></title>
-    <link href="http://plweb.github.com/JavaStepsBlog/step2/"/>
+    <link href="http://javasteps.plweb.org/step2/"/>
     <updated>2011-10-21T16:53:00+08:00</updated>
-    <id>http://plweb.github.com/JavaStepsBlog/step2</id>
+    <id>http://javasteps.plweb.org/step2</id>
     <content type="html"><![CDATA[<p>最簡單的 Java 程式</p>
 
-<figure class='code'><figcaption><span>Hello World (Hello.java)</span> <a href='http://plweb.github.com/JavaStepsBlog/downloads/code/step2/Hello.java'>download</a></figcaption>
+<figure class='code'><figcaption><span>Hello World (Hello.java)</span> <a href='http://javasteps.plweb.org/downloads/code/step2/Hello.java'>download</a></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
@@ -38,18 +38,18 @@
   
   <entry>
     <title type="html"><![CDATA[第 1 步 - 安裝及設定開發環境]]></title>
-    <link href="http://plweb.github.com/JavaStepsBlog/step1/"/>
+    <link href="http://javasteps.plweb.org/step1/"/>
     <updated>2011-10-21T16:42:00+08:00</updated>
-    <id>http://plweb.github.com/JavaStepsBlog/step1</id>
+    <id>http://javasteps.plweb.org/step1</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[認識 Java 程式語言]]></title>
-    <link href="http://plweb.github.com/JavaStepsBlog/hello/"/>
+    <link href="http://javasteps.plweb.org/hello/"/>
     <updated>2011-10-21T16:09:00+08:00</updated>
-    <id>http://plweb.github.com/JavaStepsBlog/hello</id>
+    <id>http://javasteps.plweb.org/hello</id>
     <content type="html"><![CDATA[<p>追溯至 1990 年 12 月，
 Sun (昇陽電腦) 公司成立 Green Team 團隊，
 主要成員有 Patrick Naughton、Mike Sheridan 及 James Gosling。
